@@ -36,6 +36,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 0px 89px 0px 99px;
     gap: 77px;
 }
 
